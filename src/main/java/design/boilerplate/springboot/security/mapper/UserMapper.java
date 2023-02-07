@@ -8,7 +8,7 @@ import org.mapstruct.ReportingPolicy;
 import org.mapstruct.factory.Mappers;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

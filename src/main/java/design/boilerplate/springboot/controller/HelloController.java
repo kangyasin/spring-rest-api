@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

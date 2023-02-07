@@ -6,7 +6,7 @@ import design.boilerplate.springboot.security.dto.RegistrationRequest;
 import design.boilerplate.springboot.security.dto.RegistrationResponse;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

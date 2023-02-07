@@ -13,7 +13,7 @@ import org.springframework.security.authentication.UsernamePasswordAuthenticatio
 import org.springframework.stereotype.Service;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

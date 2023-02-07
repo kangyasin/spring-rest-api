@@ -15,7 +15,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

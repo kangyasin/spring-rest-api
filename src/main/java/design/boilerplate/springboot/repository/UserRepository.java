@@ -4,7 +4,7 @@ import design.boilerplate.springboot.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

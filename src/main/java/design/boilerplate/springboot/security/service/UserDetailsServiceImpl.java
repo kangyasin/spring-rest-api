@@ -15,7 +15,7 @@ import java.util.Collections;
 import java.util.Objects;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

@@ -22,7 +22,7 @@ import java.util.Objects;
 import static design.boilerplate.springboot.security.utils.SecurityConstants.*;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

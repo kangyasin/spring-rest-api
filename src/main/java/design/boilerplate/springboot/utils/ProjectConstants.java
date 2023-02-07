@@ -3,7 +3,7 @@ package design.boilerplate.springboot.utils;
 import java.util.Locale;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */

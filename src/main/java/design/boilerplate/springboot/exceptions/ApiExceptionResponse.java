@@ -9,7 +9,7 @@ import org.springframework.http.HttpStatus;
 import java.time.LocalDateTime;
 
 /**
- * Created on February, 2023
+ * Created on February 2023
  *
  * @author Kangyasin
  */
